@@ -551,6 +551,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OODS Foundry](https://oods-foundry.com) `https://oods-foundry.com/mcp`
   [![OODS Foundry MCP connector](https://glama.ai/mcp/connectors/com.oods-foundry/foundry/badges/score.svg)](https://glama.ai/mcp/connectors/com.oods-foundry/foundry)
   🔓 - Read a design system's component catalog and registry, and draw and certify charts from your own data.
+- [Orvain UI](https://orvain.dev) `https://mcp.orvain.dev`
+  [![Orvain UI MCP connector](https://glama.ai/mcp/connectors/dev.orvain/orvain-ui/badges/score.svg)](https://glama.ai/mcp/connectors/dev.orvain/orvain-ui) 
+  🔑 - Design system for React and Vue: gives AI coding tools the real component props, variants, tokens and accessibility rules, so generated UI uses an API that exists.
 - [Overflow Design](https://www.overflow.design/mcp/?utm_source=awesome-remote&utm_medium=mcp-directory) `https://www.overflow.design/api/mcp/`
   [![Overflow Design MCP connector](https://glama.ai/mcp/connectors/design.overflow/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/design.overflow/mcp)
   🔓 - Hand-drawn icons, illustrations and isometric drawings, searched by meaning and fetched as SVG, JSX or a file.
